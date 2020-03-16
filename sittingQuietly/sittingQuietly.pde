@@ -10,7 +10,6 @@ boolean isLeftPressed = false;
 boolean isRightPressed = false;
 
 PShape bench;
-PShape window;
 PShape lampPost;
 PShape tree;
 
